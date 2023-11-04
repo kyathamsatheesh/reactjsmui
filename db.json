@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Satheesh Kyatham",
+      "email": "test@gmail.com",
+      "phone": "9993345662"
+    },
+    {
+      "id": 2,
+      "name": "Satheesh Kyatham",
+      "email": "test@gmail.com",
+      "phone": "9993345662"
+    },
+    {
+      "id": 3,
+      "name": "Satheesh Kyatham",
+      "email": "test@gmail.com",
+      "phone": "9993345662"
+    },
+    {
+      "id": 4,
+      "name": "Satheesh Kyatham",
+      "email": "test@gmail.com",
+      "phone": "9993345662"
+    },
+    {
+      "id": 6,
+      "name": "Satheesh Kyatham",
+      "email": "test@gmail.com",
+      "phone": "9993345662"
+    },
+    {
+      "id": 7,
+      "name": "Satheesh Kyatham",
+      "email": "test@gmail.com",
+      "phone": "9993345662"
+    },
+    {
+      "id": 8,
+      "name": "Satheesh Kyatham",
+      "email": "test@gmail.com",
+      "phone": "9993345662"
+    },
+    {
+      "id": 9,
+      "name": "Satheesh Kyatham",
+      "email": "test@gmail.com",
+      "phone": "9993345662"
+    }
+  ]
+}
