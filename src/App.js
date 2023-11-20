@@ -16,6 +16,7 @@ import Alert from './alert';
 
 function App() {
   return (
+    <div data-testid="movies">
     <BrowserRouter>
     <Appheader></Appheader>
     <Routes>
@@ -31,6 +32,7 @@ function App() {
         <Route path='/alert' element={<Alert></Alert>}></Route>
     </Routes>
     </BrowserRouter>
+    </div>
     
   );
 }
